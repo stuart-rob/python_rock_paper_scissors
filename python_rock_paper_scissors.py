@@ -1,4 +1,4 @@
-import random
+import random #importing the random function
 user_score = 0
 computer_score = 0
 
